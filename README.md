@@ -168,5 +168,5 @@ Zaid@Windows~ $ python3 main.py
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harigih/STARLIGHT-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harigih/Zaid-Vc-Player)
 #
